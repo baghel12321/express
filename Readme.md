@@ -6,6 +6,8 @@
 
 ## Table of contents
 
+# indrajeet apna college 
+
 * [Installation](#Installation)
 * [Features](#Features)
 * [Docs & Community](#docs--community)
